@@ -1,0 +1,3 @@
+recXOffs turnPosY recXVel1 recYVel1
+recXVel2 recYVel2 defXOffs defYOffs
+defXVel1 defYVel1 defXVel2 defYVel2
